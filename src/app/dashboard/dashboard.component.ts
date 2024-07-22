@@ -14,7 +14,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
         This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
         countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered from the OSC's World Development Indicators from the World Bank's database. 
       </p>
-      <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, the relative position of each country in relation to each indicators was compared.</p>
+      <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, a relative comparision was made among the six OSC countries using each indicator.</p>
 
        <p class="sub-note">Technologies used - Python Pandas | DAX | Power BI | Figma</p>
       <div class="dashboard-iframe">
