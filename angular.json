@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/portfolio",
+            "outputPath": "dist/portfolio-datascience",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -93,7 +93,10 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/brukGit/portfolio-datascience/"
+          }
         }
       }
     }
