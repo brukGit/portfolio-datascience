@@ -14,7 +14,7 @@ import { Component, HostListener } from '@angular/core';
       </div>
       <div class="intro-statement-container" [class.fullwidth]="isSmallScreen">
       <p>
-        Hi, I'm an Electronic Engineer with an MSc degree and a strong experience and passion for software development.
+        Hi, I like technology and love building web and data solutions. I have an MSc degree in Electronics Engineering with a strong experience and passion for software development.
         With experience in fullstack web development, and a strong background in data analytics, data science and dashboard designs,
         I bring a unique blend of multi-disciplinary skills and creativity to my work.
       </p>

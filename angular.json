@@ -94,8 +94,11 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "/brukGit/portfolio-datascience/"
+        "options": {
+            "baseHref": "/portfolio-datascience/",
+            "repo": "https://github.com/brukGit/portfolio-datascience.git",
+            "name": "Your Name",
+            "email": "your.email@example.com"
           }
         }
       }

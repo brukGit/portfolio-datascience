@@ -9,12 +9,21 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
   template: `
     <section class="dashboard">
       <h2>Interactive Dashboard</h2>
+         <h3>Dashboard in fullstack application</h3>
+         <p>
+        This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
+        countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered using Indicators from World Bank's database API. 
+      </p>
+      <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, a relative comparison was made among the six OSC countries using each indicator.</p>
+
+       <p class="sub-note">Technologies used - plotly.js | react-plotly.js | Express js | PostgreSQL | Python Pandas | </p>
+        <a href="https://db-osc.onrender.com/" target="_blank" class="cta-button">Explore dashboard</a>
       <h3>External Debt and Education Expenditure</h3>
       <p>
         This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
-        countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered from the OSC's World Development Indicators from the World Bank's database. 
+        countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered using Indciators from World Bank's database API. 
       </p>
-      <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, a relative comparision was made among the six OSC countries using each indicator.</p>
+      <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, a relative comparison was made among the six OSC countries using each indicator.</p>
 
        <p class="sub-note">Technologies used - Python Pandas | DAX | Power BI | Figma</p>
       <div class="dashboard-iframe">

@@ -7,3 +7,6 @@ npx angular-cli-ghpages --dir=dist/portfolio
 https://brukGit.github.io/portfolio-fullstack/
 
 
+
+
+ng deploy --repo=https://github.com/brukGit/portfolio-datascience.git
