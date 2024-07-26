@@ -9,7 +9,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
   template: `
     <section class="dashboard">
       <h2>Interactive Dashboard</h2>
-         <h3>Dashboard in fullstack application</h3>
+         <h3>World Bank Indicators on a fullstack data stream</h3>
          <p>
         This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
         countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered using Indicators from World Bank's database API. 
@@ -18,7 +18,8 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
 
        <p class="sub-note">Technologies used - plotly.js | react-plotly.js | Express js | PostgreSQL | Python Pandas | </p>
         <a href="https://db-osc.onrender.com/" target="_blank" class="cta-button">Explore dashboard</a>
-      <h3>External Debt and Education Expenditure</h3>
+
+      <h3>World Bank Indicators/h3>
       <p>
         This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
         countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered using Indciators from World Bank's database API. 
@@ -33,7 +34,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
         frameborder="0" allowFullScreen="true"></iframe>
       </div>
       
-      <h3>Maji Ndogo Water Access</h3>
+      <h3>Maji Ndogo's water access</h3>
       <p>
         As part of my project for my data science study, I developed an advanced dashboard for a fictional country Maji Ndogo in Africa, that serves as a comprehensive
         data analysis, and visualization platform for wide ranges of topics on the country's water access and distribution. This dashboard was built using data from multiple sources,
