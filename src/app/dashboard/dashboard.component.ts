@@ -19,7 +19,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
        <p class="sub-note">Technologies used - plotly.js | react-plotly.js | Express js | PostgreSQL | Python Pandas | </p>
         <a href="https://db-osc.onrender.com/" target="_blank" class="cta-button">Explore dashboard</a>
 
-      <h3>World Bank Indicators/h3>
+      <h3>World Bank Indicators</h3>
       <p>
         This dashboard compares External Long Term Debt to Education Expenditure Per Government Expenditure. The comparison was made for six 
         countries which are members of the Organization of Southern Cooperation (OSC). The data was gathered using Indciators from World Bank's database API. 
