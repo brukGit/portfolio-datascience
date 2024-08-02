@@ -17,7 +17,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
       <p> The dashboard aims to investigate relationships of External Long Term Debt and Education Expenditure. In addtion, a relative comparison was made among the six OSC countries using each indicator.</p>
 
        <p class="sub-note">Technologies used - plotly.js | react-plotly.js | Express js | PostgreSQL | Python Pandas | </p>
-        <a href="https://db-osc.onrender.com/" target="_blank" class="cta-button">Explore dashboard</a>
+        <a href="https://db-osc.onrender.com/" target="_blank" class="cta-button">Go see fullstack dashboard</a>
 
       <h3>World Bank Indicators</h3>
       <p>
