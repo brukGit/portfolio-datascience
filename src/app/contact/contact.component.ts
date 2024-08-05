@@ -2,6 +2,8 @@
 import { Component } from '@angular/core';
 import { BackToTopComponent } from '../back-to-top/back-to-top.component';
 
+
+
 @Component({
   selector: 'app-contact',
   standalone: true,
@@ -17,7 +19,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
         <li>Email: <a href="mailto:abrahabiruke@gmail.com">abrahabiruke&#64;gmail.com</a></li>
         <li>Phone: (+251) 974-052565</li>
         <li>LinkedIn: <a href=" https://www.linkedin.com/in/biruke-abraha" target="_blank">Biruke Abraha</a></li>
-        <li>Resume: <a href="/assets/resume.pdf" download>Download My Resume</a></li>
+        <li>Resume: <a href="./assets/resume.pdf" download>Download My Resume</a></li>
       </ul>
       <a href="mailto:abrahabiruke@gmail.com" class="cta-button">Get in Touch</a>
       <app-back-to-top></app-back-to-top>
